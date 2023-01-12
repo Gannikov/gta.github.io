@@ -1,0 +1,47 @@
+.title {
+    font-family: Arial,;
+    text-shadow: 5px;
+}
+.licence {
+    padding: .3rem 2rem;
+    color: rgb(240, 130, 6);
+    border-radius: .50rem;
+    border: none;
+    background-color: rgb(244, 248, 0);
+}
+#r254 {
+    padding: .5rem 6rem;
+    color: rgb(255, 255, 255);
+    border-radius: .50rem;
+    border: none;
+    background-color: rgb(18, 54, 214);
+    font-size: 25px
+}
+#r255 {
+    padding: .5rem 6rem;
+    color: rgb(255, 255, 255);
+    border-radius: .50rem;
+    border: none;
+    background-color: rgb(63, 8, 192);
+    font-size: 17px;
+}
+#r666 {
+    padding: .5rem 6rem;
+    color: rgb(255, 255, 255);
+    border-radius: .50rem;
+    border: none;
+    background-color: rgb(9, 162, 223);
+    font-size: 17px;
+}
+#r666:hover {
+    color: rgb(9, 162, 223);
+    background-color: white;
+}
+#r254:hover {
+    color: rgb(18, 54, 214);
+    background-color: white;
+}
+#r255:hover {
+    color: rgb(63, 8, 192);
+    background-color: white;
+}
